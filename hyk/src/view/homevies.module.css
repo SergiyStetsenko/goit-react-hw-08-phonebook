@@ -1,0 +1,14 @@
+.container {
+  min-height: calc(100vh - 107px);
+  display: flex;
+  margin-top: 3px;
+  justify-content: center;
+  background: url(https://obrazovanie.by/wp-content/uploads/2016/03/it.jpg);
+  background-size: cover;
+}
+
+.title {
+  font-size: 40px;
+  text-align: center;
+  color: yellow;
+}
